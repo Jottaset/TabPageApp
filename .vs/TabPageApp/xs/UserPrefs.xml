@@ -1,22 +1,27 @@
 ﻿<Properties StartupConfiguration="{E04F1AAD-722F-4C07-9870-15AA0D2217EE}|Default">
   <MonoDevelop.Ide.ItemProperties.TabPageApp.Android PreferredExecutionTarget="Android.5711d61d" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TabPageApp/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabPageApp/PageImg.xaml">
     <Files>
       <File FileName="TabPageApp/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="TabPageApp/MainPage.xaml" Line="13" Column="36" />
-      <File FileName="TabPageApp/Pagetwo.xaml" Line="14" Column="32" />
+      <File FileName="TabPageApp/Pagetwo.xaml" Line="19" Column="38" />
       <File FileName="TabPageApp/Pagetwo.xaml.cs" Line="1" Column="1" />
-      <File FileName="TabPageApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="TabPageApp/App.xaml.cs" Line="18" Column="14" />
+      <File FileName="TabPageApp/PageImg.xaml" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TabPageApp" expanded="True">
             <Node name="TabPageApp" expanded="True">
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
-              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="PageImg.xaml" expanded="True" selected="True" />
               <Node name="Pagetwo.xaml" expanded="True" />
+            </Node>
+            <Node name="TabPageApp.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

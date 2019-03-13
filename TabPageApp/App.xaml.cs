@@ -16,7 +16,8 @@ namespace TabPageApp
 
                 Children = {
                     new MainPage(),
-                    new Pagetwo()
+                    new Pagetwo(),
+                    new PageImg()
 
                 }
              };

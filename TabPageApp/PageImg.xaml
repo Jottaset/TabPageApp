@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TabPageApp.PageImg"
+             Title="Img's">
+    
+    
+    <StackLayout>
+        
+        <!-- Place new controls here -->
+        
+        <Label Text="Page 03"
+               FontSize="40"
+               FontAttributes="Bold"
+               TextColor="Blue"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand" />
+        
+        <Image Source="Anarquia.png"/>
+        
+    </StackLayout>
+    
+    
+</ContentPage>

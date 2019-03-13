@@ -34,6 +34,7 @@
 /Users/aluno/Projects/TabPageApp/TabPageApp.Android/obj/Debug/R.cs.flag
 /Users/aluno/Projects/TabPageApp/TabPageApp.Android/obj/Debug/R.txt
 /Users/aluno/Projects/TabPageApp/TabPageApp.Android/obj/Debug/uploadflags.txt
+/Users/aluno/Projects/TabPageApp/TabPageApp.Android/obj/Debug/res/drawable/anarquia.png
 /Users/aluno/Projects/TabPageApp/TabPageApp.Android/bin/Debug/FormsViewGroup.pdb
 /Users/aluno/Projects/TabPageApp/TabPageApp.Android/bin/Debug/Mono.Android.pdb
 /Users/aluno/Projects/TabPageApp/TabPageApp.Android/bin/Debug/Xamarin.Forms.Core.pdb
